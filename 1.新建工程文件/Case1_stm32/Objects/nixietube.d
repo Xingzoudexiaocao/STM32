@@ -1,0 +1,35 @@
+.\output\nixietube.o: user\NixieTube.c
+.\output\nixietube.o: user\nixietube.h
+.\output\nixietube.o: .\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\output\nixietube.o: .\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
+.\output\nixietube.o: C:\Program Files (x86)\Keil_v5\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\nixietube.o: .\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\output\nixietube.o: .\user\stm32f10x_conf.h
+.\output\nixietube.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
+.\output\nixietube.o: .\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\output\nixietube.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h
+.\output\nixietube.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h
+.\output\nixietube.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h
+.\output\nixietube.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h
+.\output\nixietube.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h
+.\output\nixietube.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h
+.\output\nixietube.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h
+.\output\nixietube.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h
+.\output\nixietube.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h
+.\output\nixietube.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h
+.\output\nixietube.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\output\nixietube.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h
+.\output\nixietube.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h
+.\output\nixietube.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h
+.\output\nixietube.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\output\nixietube.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h
+.\output\nixietube.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h
+.\output\nixietube.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h
+.\output\nixietube.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h
+.\output\nixietube.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\output\nixietube.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h
+.\output\nixietube.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\output\nixietube.o: C:\Program Files (x86)\Keil_v5\MDK5\ARM\ARMCC\Bin\..\include\stdio.h
+.\output\nixietube.o: user\printf.h
+.\output\nixietube.o: user\user_headfile.h
+.\output\nixietube.o: user\delay.h
